@@ -1,0 +1,7 @@
+{
+  "name": "L'Écho de l'Agence - Gazette Interne",
+  "description": "Une plateforme moderne pour consulter la gazette interne de l'agence, recevoir des notifications sur les nouveaux numéros et proposer des idées d'articles via un assistant IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
